@@ -1,4 +1,4 @@
-# SmartSystems_AI_JetsonNano
+SmartSystems_AI_JetsonNano
 AI application with Nvidia Jetson Nano
 
 # Inhoud van opdracht
